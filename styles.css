@@ -1,5 +1,5 @@
 body {
-  background-color: darkgray;
+  background-color: rgb(238, 235, 235);
 }
 h1 {
   font-size: 4rem;
@@ -11,4 +11,8 @@ h1 {
 h1:hover {
   color: rgb(236, 200, 235);
   cursor: pointer;
+}
+p {
+  font-size: 2rm;
+  color: darkblue;
 }
